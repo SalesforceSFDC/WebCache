@@ -1,4 +1,4 @@
-# WebCache
+# Web Cache
 
 ## Intelligent caching
 
